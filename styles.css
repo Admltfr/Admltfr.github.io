@@ -78,3 +78,8 @@ footer {
 footer p {
     font-size: 1em;
 }
+
+img {
+    object-fit: contain;
+    width: 80%;
+}
